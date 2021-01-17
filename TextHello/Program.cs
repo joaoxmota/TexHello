@@ -7,6 +7,8 @@ namespace TextHello
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            //Add nova linhda
+            Console.WriteLine("Adicionado pelo github!");
         }
     }
 }
